@@ -117,6 +117,14 @@ class Test extends Game {
     	}
     }
 
+    override def resize(width:Int, height:Int){
+
+    }
+
+    override def pause(){}
+
+    override def resume(){}
+
     override def dispose() {
     	dropImage.dispose
     	bucketImage.dispose
