@@ -2,7 +2,7 @@
 
 - master branch is the initial simple game version
 
--extendSimpleGame branch is the extended version of simple game
+- extendSimpleGame branch is the extended version of simple game
 
 ## Tools
 
